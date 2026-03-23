@@ -1,2 +1,3 @@
-console.log("hello git");
+const nome = "João";
 
+console.log("Olá, " + nome + "!");
